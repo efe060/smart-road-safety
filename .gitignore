@@ -1,0 +1,10 @@
+*.pt
+*.onnx
+*.engine
+runs/
+data/
+results.json
+__pycache__/
+*.pyc
+.venv/
+.env

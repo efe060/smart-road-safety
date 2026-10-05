@@ -1,0 +1,4 @@
+ultralytics>=8.1
+opencv-python-headless
+numpy
+lap            # needed by the ByteTrack tracker
